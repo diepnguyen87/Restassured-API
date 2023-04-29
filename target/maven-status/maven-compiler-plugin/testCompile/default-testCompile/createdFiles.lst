@@ -1,3 +1,4 @@
+test\BaseTest.class
 model\TransitionIssue.class
 Utils\TransitionInfo.class
 builder\IssueContentBuilder.class
