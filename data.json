@@ -1,0 +1,11 @@
+{
+  "fields":{
+    "summary": "Summary | new task",
+    "issuetype": {
+      "id": "10001"
+    },
+    "project": {
+      "key": "EC"
+    }
+  }
+}

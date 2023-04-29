@@ -1,0 +1,1 @@
+{"uuid":"cb31f9ca-c746-48e3-aeea-1bd6574aca82","name":"JIRA - Issue E2E","children":["5c2d0fab-a4eb-4663-9ced-778d9064e1e1"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1682735103964,"stop":1682735104549}],"afters":[],"start":1682735103962,"stop":1682735109723}
