@@ -27,6 +27,7 @@ public class BaseTest implements RequestCapility {
         request.header(defaultHeader);
         request.header(acceptHeader);
         System.out.println("Token: " + token);
+        System.out.println("Email: " + email);
         request.header(getAuthenticationHeader.apply(AuthenticationHandler.getEncodeCredentialString(email, token)));
     }
 }
